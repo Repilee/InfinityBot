@@ -65,7 +65,7 @@ Bot.initEvents = function() {
 };
 
 Bot.login = function() {
-	this.bot.login(process.env.BOT_TOKEN);
+	this.bot.login("Mzc1MDIzMzQ3NDIwODg5MDg5.DN-JdQ.Y_9n4H5AjHQn1M96cDVYxGl1yu0");
 };
 
 Bot.onReady = function() {
