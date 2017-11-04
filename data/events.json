@@ -1,0 +1,1 @@
+[null,{"name":"ErrorTrigger","temp":"boterrormsg","event-type":"37","actions":[{"channel":"4","varName":"","message":":warning: :spicy: ```An error occurred! ${tempVars(\"boterrormsg\")}```","storage":"0","varName2":"","name":"Send Message"}],"temp2":"javaerrormsg"}]
