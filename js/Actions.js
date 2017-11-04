@@ -393,7 +393,7 @@ Actions.getChannel = function(type, varName, cache) {
 		case 5:
 			return this.global[varName];
 			break;
-		default: 
+		default:
 			break;
 	}
 	return false;
@@ -447,7 +447,7 @@ Actions.getList = function(type, varName, cache) {
 		case 9:
 			return this.global[varName];
 			break;
-		default: 
+		default:
 			break;
 	}
 	return false;
